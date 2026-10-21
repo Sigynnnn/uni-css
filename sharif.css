@@ -1,0 +1,158 @@
+.master-header-inner,
+.card-text,
+#instance-5-header,
+#searchinput-6acffbc43d81b6acffbc43d81f1{
+    background-color: #9a137012;
+}
+
+.card,
+.myc-progress-bar {
+    background-color: #fcf7f5
+}
+
+#page-header {
+    background-image: linear-gradient(135deg, #874C70, #623858) !important;
+}
+
+/*.logo-light {
+    filter: brightness(0) saturate(100%) invert(15%) sepia(70%) saturate(3000%) hue-rotate(270deg) brightness(75%) !important;
+}*/
+
+.mb2mm-hlabel { background-color: #874C70; }
+.sidebar-tabs { background-color: #874C70; }
+
+.sidebar-menu {
+    background-image: linear-gradient(135deg, #874C70, #623858);
+}
+
+.sidebar-footer { background-color: #623858; }
+.header-gap { background-color: #874C70; }
+
+.wbox-title { font-size: 0; }
+.wbox-title::before {
+    content: "Hello, Mona ! （●＾∀＾●）ﾉｼ";
+    font-size: 1.25rem;
+}
+
+.wbox-button {
+    background-color: #874C70;
+    border: none;
+}
+
+.chart-semicircle .start-color { stop-color: #874C70 !important; }
+.chart-semicircle .end-color { stop-color: #623858 !important; }
+
+.catname { font-size: 0; }
+.catname::after {
+    content: "E-Learning";
+    font-size: 0.875rem;
+}
+
+.card-footer .myc-readmore {
+    background-color: #874C70 !important;
+    color: white !important;
+    border: none;
+}
+
+.theme-footer { background-color: #623858; }
+.theme-footer a { color: white; }
+
+/* Existing course-specific dashboard covers and renamed course titles */
+[data-course-id="1730"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/1200x/7e/e4/94/7ee4940edeeefa917862b621317d5075.jpg") !important; }
+[data-course-id="1730"] .coursename .multiline { font-size: 0; }
+[data-course-id="1730"] .coursename .multiline::after { content: "Digital Logic Laboratory"; font-size: 1.25rem; }
+
+[data-course-id="1671"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/736x/c6/91/f9/c691f9a5ecd02817bf6e508df91ac35e.jpg") !important; }
+[data-course-id="1671"] .coursename .multiline { font-size: 0; }
+[data-course-id="1671"] .coursename .multiline::after { content: "Islamic Ethics"; font-size: 1.25rem; }
+
+[data-course-id="1660"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/1200x/23/b7/0e/23b70e5f78dbc7cbfe57d9afa68b1047.jpg") !important; }
+[data-course-id="1660"] .coursename .multiline { font-size: 0; }
+[data-course-id="1660"] .coursename .multiline::after { content: "Physical Education"; font-size: 1.25rem; }
+
+[data-course-id="1737"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/736x/93/8f/75/938f75a47b68e404d7d47d1d8b64550f.jpg") !important; }
+[data-course-id="1737"] .coursename .multiline { font-size: 0; }
+[data-course-id="1737"] .coursename .multiline::after { content: "Linear Algebra"; font-size: 1.25rem; }
+
+[data-course-id="1727"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/1200x/d1/aa/5f/d1aa5ffe3c8c6091bfaa91827d6b60ad.jpg") !important; }
+[data-course-id="1727"] .coursename .multiline { font-size: 0; }
+[data-course-id="1727"] .coursename .multiline::after { content: "Computer Language and Structure"; font-size: 1.25rem; }
+
+[data-course-id="1740"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/1200x/9e/e5/c3/9ee5c34e78d88e761cc83e58f6f77008.jpg") !important; }
+[data-course-id="1740"] .coursename .multiline { font-size: 0; }
+[data-course-id="1740"] .coursename .multiline::after { content: "Database Design"; font-size: 1.25rem; }
+
+[data-course-id="1655"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/1200x/22/9e/2f/229e2fbe6829fb22f4dfc51faf949980.jpg") !important; }
+[data-course-id="1655"] .coursename .multiline { font-size: 0; }
+[data-course-id="1655"] .coursename .multiline::after { content: "Persian Foundation"; font-size: 1.25rem; }
+
+[data-course-id="1687"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/736x/03/0d/a0/030da081b96d4df1992c912885463bab.jpg") !important; }
+[data-course-id="1687"] .coursename .multiline { font-size: 0; }
+[data-course-id="1687"] .coursename .multiline::after { content: "Communication Skills"; font-size: 1.25rem; }
+
+[data-course-id="1746"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/1200x/bb/85/65/bb85657bddd186eef05525d6072034c1.jpg") !important; }
+[data-course-id="1746"] .coursename .multiline { font-size: 0; }
+[data-course-id="1746"] .coursename .multiline::after { content: "Automata and Language Theory"; font-size: 1.25rem; }
+
+[data-course-id="1868"] .coursename .multiline { font-size: 0; }
+[data-course-id="1868"] .coursename .multiline::after { content: "Announcements"; font-size: 1.25rem; }
+
+[data-course-id="1739"] .card-img.dashboard-card-img { background-image: url("https://i.pinimg.com/736x/50/30/70/503070d178d2cdf12c725384857d674c.jpg") !important; }
+[data-course-id="1739"] .coursename .multiline { font-size: 0; }
+[data-course-id="1739"] .coursename .multiline::after { content: "Advanced Algorithms"; font-size: 1.25rem; }
+
+[data-course-id="3130"] .card-img.dashboard-card-img {
+    background-image: url("https://i.pinimg.com/736x/ff/9d/1a/ff9d1af5f2f41b4940b4b7abc4c04279.jpg") !important;
+    background-position: 50% 49%;
+}
+[data-course-id="3130"] .coursename .multiline { font-size: 0; }
+[data-course-id="3130"] .coursename .multiline::after { content: "Technical Writing"; font-size: 1.25rem; }
+
+[data-course-id="3162"] .card-img.dashboard-card-img {
+    background-image: url("https://i.pinimg.com/1200x/48/7d/98/487d98d9704993e9d4eb5d07fea60059.jpg") !important;
+    background-position: 50% 70%;
+}
+[data-course-id="3162"] .coursename .multiline { font-size: 0; }
+[data-course-id="3162"] .coursename .multiline::after { content: "Data Communication"; font-size: 1.25rem; }
+
+[data-course-id="3168"] .card-img.dashboard-card-img {
+    background-image: url("https://i.pinimg.com/736x/c7/69/3a/c7693af5a5fc2513f5defe10ea98a9fb.jpg") !important;
+    background-position: 50% 90%;
+}
+[data-course-id="3168"] .coursename .multiline { font-size: 0; }
+[data-course-id="3168"] .coursename .multiline::after { content: "System Analysis and Design"; font-size: 1.25rem; }
+
+[data-course-id="3170"] .card-img.dashboard-card-img {
+    background-image: url("https://i.pinimg.com/736x/d1/1b/ef/d11befd104dfaad2dc8d8be80738979f.jpg") !important;
+    background-position: 50% 60%;
+}
+[data-course-id="3170"] .coursename .multiline { font-size: 0; }
+[data-course-id="3170"] .coursename .multiline::after { content: "Project Management"; font-size: 1.25rem; }
+
+[data-course-id="3160"] .card-img.dashboard-card-img {
+    background-image: url("https://i.pinimg.com/736x/62/9a/9f/629a9f57d6374fd62c03b3272858530c.jpg") !important;
+    background-position: 50% 69%;
+}
+[data-course-id="3160"] .coursename .multiline { font-size: 0; }
+[data-course-id="3160"] .coursename .multiline::after { content: "Computer Architecture"; font-size: 1.25rem; }
+
+[data-course-id="3167"] .card-img.dashboard-card-img {
+    background-image: url("https://i.pinimg.com/736x/14/86/72/1486728ae44d3a4960e02d52469146d2.jpg") !important;
+    background-position: 50% 89%;
+}
+[data-course-id="3167"] .coursename .multiline { font-size: 0; }
+[data-course-id="3167"] .coursename .multiline::after { content: "Artificial Intelligence"; font-size: 1.25rem; }
+
+[data-course-id="3104"] .card-img.dashboard-card-img {
+    background-image: url("https://i.pinimg.com/736x/02/13/91/021391644680fb25fe4f47c5ac49c86a.jpg") !important;
+    background-position: 50% 39%;
+}
+[data-course-id="3104"] .coursename .multiline { font-size: 0; }
+[data-course-id="3104"] .coursename .multiline::after { content: "Sport"; font-size: 1.25rem; }
+
+[data-course-id="3094"] .card-img.dashboard-card-img {
+    background-image: url("https://i.pinimg.com/736x/be/67/d0/be67d0b4be7e59744f89b4d2ab40bc57.jpg") !important;
+    background-position: 50% 55%;
+}
+[data-course-id="3094"] .coursename .multiline { font-size: 0; }
+[data-course-id="3094"] .coursename .multiline::after { content: "General Workshop"; font-size: 1.25rem; }
