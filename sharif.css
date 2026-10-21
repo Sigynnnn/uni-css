@@ -102,8 +102,7 @@
 [data-course-id="1739"] .coursename .multiline::after { content: "Advanced Algorithms"; font-size: 1.25rem; }
 
 [data-course-id="3130"] .card-img.dashboard-card-img {
-    background-image: none;
-    background-color: pink;
+    background-image: url("https://i.pinimg.com/736x/ff/9d/1a/ff9d1af5f2f41b4940b4b7abc4c04279.jpg") !important; background-position: 50% 49%;
 }
 [data-course-id="3130"] .coursename .multiline { font-size: 0; }
 [data-course-id="3130"] .coursename .multiline::after { content: "Technical Writing"; font-size: 1.25rem; }
