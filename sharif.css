@@ -156,3 +156,14 @@
 }
 [data-course-id="3094"] .coursename .multiline { font-size: 0; }
 [data-course-id="3094"] .coursename .multiline::after { content: "General Workshop"; font-size: 1.25rem; }
+
+
+
+
+
+.card-img.dashboard-card-img {
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: cover !important;
+    -webkit-background-size: cover !important;
+}
